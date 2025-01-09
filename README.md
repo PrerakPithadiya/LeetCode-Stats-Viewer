@@ -1,4 +1,4 @@
-# LeetCode Stats Dashboard
+# LeetCode Stats Viewer
 
 A **responsive** and **user-friendly dashboard** that allows LeetCode users to view and track their progress in solving problems across different difficulty levels. This project provides a real-time display of your LeetCode statistics, such as the total number of problems solved and the breakdown of solved problems in **Easy**, **Medium**, and **Hard** categories.
 
