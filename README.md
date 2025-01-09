@@ -20,7 +20,7 @@ A **responsive** and **user-friendly dashboard** that allows LeetCode users to v
 
 ## Screenshots
 
-![LeetCode Dashboard](assets/screenshot/screenshot.png)
+![LeetCode Dashboard](assets/screenshot/Screenshot.png)
 
 ## Installation
 
