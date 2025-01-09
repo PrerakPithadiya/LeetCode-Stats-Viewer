@@ -56,6 +56,6 @@ Contributions are always welcome! Feel free to fork the repository, make changes
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Acknowledgments
-- [LeetCode Stats API](https://leetcode-stats-api.herokuapp.com/) for providing the data.
+- [LeetCode Stats API](https://leetcode-stats-api.herokuapp.com/PrerakPithadiya) for providing the data.
 - [Tailwind CSS](https://tailwindcss.com/) for its amazing utility-first CSS framework.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for making the dynamic content possible.
