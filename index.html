@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LeetCode Stats App</title>
+    <link rel="stylesheet" href="output.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>LeetCode Stats Tracker</h1>
+      <div class="input-section">
+        <input
+          type="text"
+          id="username"
+          placeholder="Enter LeetCode Username"
+        />
+        <button id="fetchStats">Fetch Stats</button>
+      </div>
+      <div id="message" class="message"></div>
+      <div id="stats" class="stats hidden">
+        <h2>Statistics for <span id="user"></span></h2>
+        <p><strong>Total Problems Solved:</strong> <span id="total"></span></p>
+        <p><strong>Easy:</strong> <span id="easy"></span></p>
+        <p><strong>Medium:</strong> <span id="medium"></span></p>
+        <p><strong>Hard:</strong> <span id="hard"></span></p>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
