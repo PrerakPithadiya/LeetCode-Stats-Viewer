@@ -34,12 +34,8 @@ To run this project locally on your machine, follow these steps:
 2. **Navigate to the project directory:**
    ```bash
    cd LeetCode-Stats-Viewer
-   
-3. **Install the required dependencies (if any):**
-   ```bash
-   npm install
 
-4. **Open index.html in your browser:**
+3. **Open index.html in your browser:**
    - You can open the index.html file directly in your browser to see the dashboard.
 
 ## Usage
